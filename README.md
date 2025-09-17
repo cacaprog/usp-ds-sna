@@ -1,22 +1,22 @@
 # Network Analysis for Data Scientists: A Comprehensive Guide
 
 ## Table of Contents
-1. [Introduction to Network Analysis](#introduction)
-2. [Fundamental Concepts](#fundamentals)
-3. [Types of Networks](#network-types)
-4. [Network Metrics and Measures](#metrics)
-5. [Network Visualization](#visualization)
+1. [Introduction to Network Analysis](#introduction-to-network-analysis)
+2. [Fundamental Concepts](#fundamental-concepts)
+3. [Types of Networks](#types-of-networks)
+4. [Network Metrics and Measures](#network-metrics-and-measures)
+5. [Network Visualization](#network-visualization)
 6. [Community Detection](#community-detection)
 7. [Network Models](#network-models)
-8. [Tools and Libraries](#tools)
-9. [Real-World Applications](#applications)
+8. [Tools and Libraries](#tools-and-libraries)
+9. [Real-World Applications](#real-world-applications)
 10. [Advanced Topics](#advanced-topics)
 11. [Best Practices](#best-practices)
-12. [Resources and Further Reading](#resources)
+12. [Resources and Further Reading](#resources-and-further-reading)
 
 ---
 
-## Introduction to Network Analysis {#introduction}
+## Introduction to Network Analysis
 
 Network analysis is a powerful analytical approach that studies relationships and connections between entities. In the context of data science, it provides insights into complex systems by modeling them as networks of nodes (vertices) connected by edges (links). This methodology has become increasingly valuable across diverse domains, from social media analysis to biological systems, financial networks, and transportation systems.
 
@@ -36,7 +36,7 @@ Network analysis has roots in graph theory (Euler, 1736) and sociology (sociomet
 
 ---
 
-## Fundamental Concepts {#fundamentals}
+## Fundamental Concepts
 
 ### Basic Terminology
 
@@ -82,7 +82,7 @@ D: [B]
 
 ---
 
-## Types of Networks {#network-types}
+## Types of Networks
 
 ### By Structure
 
@@ -145,7 +145,7 @@ D: [B]
 
 ---
 
-## Network Metrics and Measures {#metrics}
+## Network Metrics and Measures
 
 ### Node-Level Metrics
 
@@ -213,7 +213,7 @@ D: [B]
 
 ---
 
-## Network Visualization {#visualization}
+## Network Visualization
 
 ### Layout Algorithms
 
@@ -271,7 +271,7 @@ D: [B]
 
 ---
 
-## Community Detection {#community-detection}
+## Community Detection
 
 ### What are Communities?
 
@@ -332,7 +332,7 @@ Communities are groups of nodes that are more densely connected to each other th
 
 ---
 
-## Network Models {#network-models}
+## Network Models
 
 ### Random Network Models
 
@@ -396,7 +396,7 @@ Communities are groups of nodes that are more densely connected to each other th
 
 ---
 
-## Tools and Libraries {#tools}
+## Tools and Libraries
 
 ### Python Libraries
 
@@ -490,7 +490,7 @@ centrality = nx.betweenness_centrality(G)
 
 ---
 
-## Real-World Applications {#applications}
+## Real-World Applications
 
 ### Social Network Analysis
 
@@ -602,7 +602,7 @@ centrality = nx.betweenness_centrality(G)
 
 ---
 
-## Advanced Topics {#advanced-topics}
+## Advanced Topics
 
 ### Temporal Network Analysis
 
@@ -700,7 +700,7 @@ centrality = nx.betweenness_centrality(G)
 
 ---
 
-## Best Practices {#best-practices}
+## Best Practices
 
 ### Data Preparation
 
@@ -786,7 +786,7 @@ centrality = nx.betweenness_centrality(G)
 
 ---
 
-## Resources and Further Reading {#resources}
+## Resources and Further Reading
 
 ### Essential Books
 
