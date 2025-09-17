@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+sdist/
+*.egg-info
+.installed.cfg
+*.manifest
+*.spec
+
+# PyInstaller
+#  https://pyinstaller.readthedocs.io/en/stable/usage.html#supporting-alternative-hooks-with-a-hook-dir
+*.pyc
+*.pyo
+*.pyd
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+
+# Virtual environment
+.venv/
+venv/
+env/
+/bin
+/include
+/lib
+/local/lib
+/local/bin
+
+# Environment variables
+.env
+.flaskenv
+
+# Miscellaneous
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+.sublime-project
+.sublime-workspace
